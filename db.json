@@ -1,0 +1,139 @@
+{
+    "meta": {
+        "request": {
+            "granularity": "Daily",
+            "main_domain_only": false,
+            "show_verified": false,
+            "format": "json",
+            "domain": "dannyquinn.co.uk",
+            "start_date": "2020-04-01",
+            "end_date": "2020-04-30",
+            "limit": null,
+            "country": "gb"
+        },
+        "status": "Success",
+        "last_updated": "2020-04-30"
+    },
+    "visits": [
+        {
+            "date": "2020-04-01",
+            "visits": 2
+        },
+        {
+            "date": "2020-04-02",
+            "visits": 3
+        },
+        {
+            "date": "2020-04-03",
+            "visits": 4
+        },
+        {
+            "date": "2020-04-04",
+            "visits": 5
+        },
+        {
+            "date": "2020-04-05",
+            "visits": 6
+        },
+        {
+            "date": "2020-04-06",
+            "visits": 7
+        },
+        {
+            "date": "2020-04-07",
+            "visits": 8
+        },
+        {
+            "date": "2020-04-08",
+            "visits": 9
+        },
+        {
+            "date": "2020-04-09",
+            "visits": 10
+        },
+        {
+            "date": "2020-04-10",
+            "visits": 11
+        },
+        {
+            "date": "2020-04-11",
+            "visits": 12
+        },
+        {
+            "date": "2020-04-12",
+            "visits": 13
+        },
+        {
+            "date": "2020-04-13",
+            "visits": 14
+        },
+        {
+            "date": "2020-04-14",
+            "visits": 15
+        },
+        {
+            "date": "2020-04-15",
+            "visits": 16
+        },
+        {
+            "date": "2020-04-16",
+            "visits": 17
+        },
+        {
+            "date": "2020-04-17",
+            "visits": 18
+        },
+        {
+            "date": "2020-04-18",
+            "visits": 19
+        },
+        {
+            "date": "2020-04-19",
+            "visits": 20
+        },
+        {
+            "date": "2020-04-20",
+            "visits": 21
+        },
+        {
+            "date": "2020-04-21",
+            "visits": 22
+        },
+        {
+            "date": "2020-04-22",
+            "visits": 23
+        },
+        {
+            "date": "2020-04-23",
+            "visits": 24
+        },
+        {
+            "date": "2020-04-24",
+            "visits": 25
+        },
+        {
+            "date": "2020-04-25",
+            "visits": 26
+        },
+        {
+            "date": "2020-04-26",
+            "visits": 27
+        },
+        {
+            "date": "2020-04-27",
+            "visits": 28
+        },
+        {
+            "date": "2020-04-28",
+            "visits": 29
+        },
+        {
+            "date": "2020-04-29",
+            "visits": 30
+        },
+        {
+            "date": "2020-04-30",
+            "visits": 31
+        }
+    ]
+}
